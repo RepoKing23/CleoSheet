@@ -50,6 +50,8 @@ Cleo's advanced clinical background influences every part of her approach. Her r
 
 That order matters. Assessment comes first, and treatment is recommended only when it suits you. Sometimes the right advice is a smaller amount, a different treatment, or waiting.
 
+Cleo plans in stages rather than all at once. A conservative first treatment, a review two weeks later and small adjustments from there give natural results you can build on, and they let her learn how your face and skin respond. It is slower than doing everything in one visit, but it is how results stay subtle and how clients keep coming back with confidence.
+
 ## What makes an NP-led clinic different
 
 As a nurse practitioner, Cleo works at an advanced scope of practice in Ontario. That means a full health screening before treatment, a clear explanation of risks, and a plan for what happens if something needs attention afterwards. [Confirm: registered with the College of Nurses of Ontario as an NP; add registration details if Cleo wants them shown.]
@@ -102,6 +104,8 @@ Every client starts with a complimentary consultation. It is a relaxed conversat
 ### What happens at your consultation
 
 Cleo assesses your features, skin and muscle movement, explains the options that suit you, including when to do less, and gives you a clear plan with expected results, downtime and aftercare. You leave with the information to decide in your own time.
+
+It helps to bring a list of any medications or supplements you take, details of previous aesthetic treatments, and a photo of yourself from a few years ago if you are thinking about restoring volume. Questions are welcome. The more Cleo understands about your goals, the better your plan will be.
 
 ## Questions people ask before booking
 
