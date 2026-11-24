@@ -1,5 +1,36 @@
 # SEO Roadmap changelog
 
+## 2026-11-24 (second update): Sheet-wide sync, postal code fix, heatmap monitor
+
+**Postal code:** L6M 4L9 is correct (confirmed by the user, and it matches the Google profile).
+- Fixed on Start Here, Local Citations ("THE RECORD"), Citations and the 90-Day Overview.
+- Tasks #42–#44 had changed Apple Maps, Bing and RateMDs to L6M 0T9 in September. New task #177 changes them back, and #178 re-checks every listing.
+- Task #53 now says L6M 4L9.
+
+**Website:** changed to https://luxurybeautyaesthetic.com on Start Here and Local Citations, to match the Google profile and the live site.
+
+**Start Here**
+- The "Right now" timeline now shows Nov, Dec, Jan and Feb.
+- The keyword and data notes are updated.
+- Pointers to the Priority Issues and Heatmap Monitor tabs were added.
+
+**90-Day Overview:** new "week by week — the second half" section for W14–W26. Its counts pull live from the Tasks tab. The Month 4–6 themes were rewritten.
+
+**Metrics:** end-of-November numbers added:
+- pages indexed: 9
+- site health score: 84
+- referring domains: 0
+- a blog post counter
+
+**New tab: Heatmap Monitor**
+- A 5×5 Google Maps grid with points 1.5 km apart, centred on the Google listing (43.476, -79.736).
+- Five priority keywords, ranked from DataForSEO volumes, SE Ranking positions and the map ranks on the Metrics tab.
+- Grid coordinates, colour-coded entry grids for Dec, Jan and Feb, and automatic average-rank and top-3 share.
+
+**Tasks:** #179 heatmap baseline (6 Dec), #180 re-run (3 Jan), #181 re-run (7 Feb).
+
+**Priority Issues:** added the postal code issue as P1.
+
 ## 2026-11-24: Revision from SE Ranking audit and insights
 
 Sources: the SE Ranking website audit, keyword cannibalisation, poor-quality content, new competitor pages and positions exports (24 Nov), checked with DataForSEO.
