@@ -1,5 +1,30 @@
 # SEO Roadmap changelog
 
+## 2026-11-24 (third update): Focus targets and competitor pages
+
+**New tab: Focus Targets.** It has three sections:
+1. Keywords gaining position. This comes from SE Ranking daily positions, Nov 13–24. Each keyword has a focus level, a recommended action and its task IDs.
+2. New competitor pages to copy or compete with. This comes from the SE Ranking new-competitor-pages export. Each page has our planned response, task IDs and a due date. Services Cleo doesn't offer, and pricing pages, are marked "Skip".
+3. Page fixes, listed in the order to do them.
+
+**New tasks:**
+- #182 lip filler blog (Nov 29)
+- #183 lip filler page
+- #184 nurse injector /about
+- #185 fat dissolving page
+- #186 skin boosters page
+- #187 Google profile fixes
+- #188 concern pages
+- #189 Botox page
+- #190 natural lip filler blog
+- #191 0.5 vs 1 ml lip filler blog
+
+**Blog schedule now:** 1 in Nov, 5 in Dec, 5 in Jan, 4 by Feb 14.
+- #175 (NP vs nurse vs doctor) moved to Dec 13, because "nurse injector oakville" is climbing fast.
+- #110 (Is Botox safe) moved to Feb 14.
+
+**Blogs tab:** 6 posts added: lip filler duration, natural lip filler, 0.5 vs 1 ml, lip filler dissolving, double chin injections, Botox for forehead lines. The lip swelling post was merged into "aftercare and swelling," and the skin boosters post now includes before-and-afters.
+
 ## 2026-11-24 (second update): Sheet-wide sync, postal code fix, heatmap monitor
 
 **Postal code:** L6M 4L9 is correct (confirmed by the user, and it matches the Google profile).
