@@ -1,5 +1,22 @@
 # SEO Roadmap changelog
 
+## 2026-11-24 (seventh update): Page Targets
+
+**New tab: Page Targets.** One row for each of the 25 live URLs and the 4 planned location pages. Each row has:
+- the primary keyword the page owns, supporting keywords and search volume
+- organic position now (SE Ranking) and Google Maps position now (DataForSEO, checked from the clinic)
+- the current meta title, description and H1, scraped live, with character counts
+- the recommended title (max 60 characters), meta description (max 155) and H1
+- whether it's good for conversion, why, the action, and the task IDs
+
+**Result:** 17 pages are good for conversion (some need a title tweak), 8 need fixing, and 4 are planned.
+
+**New tasks:**
+- #203 FAQ schema on the 6 treatment pages (Dec 13)
+- #201 turn /locations into a directions hub (Jan 10)
+- #202 stop the wellness-weight-management page competing with the weight-loss page (Jan 17)
+- #137 and #188 now point to the recommended titles on this tab
+
 ## 2026-11-24 (sixth update): This week's website fixes completed
 
 **Checked on the live site on Nov 24, then marked Done:**
