@@ -1,5 +1,19 @@
 # SEO Roadmap changelog
 
+## 2026-11-24 (fourth update): Monitoring dates and second SE Ranking audit
+
+**Focus Targets:** every row now has a "Monitor in" column, a "Target date to complete" column (the due date of the last linked task), and a "Target position by 14 Feb" for keywords. A "How we monitor" note was added.
+
+**Second SE Ranking audit (24 Nov, 04:19):** health score 84 → 91, and all 25 pages are now indexable.
+- **#156, the canonical fix, is Done.** Verified on the live site: www redirects (308) to non-www, and the canonical tag and sitemap both use non-www.
+- **#158, real menu links, moved to this week (Nov 29).** New error "No inbound links" on all 25 pages. The live homepage has 40 `href="#"` links that only work through JavaScript.
+- **New tasks due Nov 29:**
+  - #192 alt text on 13 pages
+  - #193 text for the icon-only links
+  - #194 shorter meta description on the Burlington page
+- **#195:** re-run the audit on Dec 6.
+- **Updated tabs:** Priority Issues, Start Here, 90-Day Overview (W15), Metrics and Focus Targets.
+
 ## 2026-11-24 (third update): Focus targets and competitor pages
 
 **New tab: Focus Targets.** It has three sections:
