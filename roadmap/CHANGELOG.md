@@ -1,5 +1,23 @@
 # SEO Roadmap changelog
 
+## 2026-11-24 (fifth update): Blog briefs and keyword ownership
+
+**New tab: Blog Briefs.** 22 briefs: 15 scheduled through Feb 14, and 7 for next quarter. Each brief has:
+- H1, URL slug, SEO title tag (max 60 characters) and meta description (max 155)
+- one primary keyword and the supporting keywords, with DataForSEO volumes
+- intent, angle and opening, H2 outline, FAQ block
+- the internal link (page and anchor text)
+- a "do not target" list, word count and compliance notes
+
+**Keyword ownership map** (bottom of the Blog Briefs tab): 113 keywords, each owned by exactly one blog or service page. The build script refuses to save if any keyword is assigned twice, or if a blog targets a term a page owns.
+
+**Overlaps fixed:**
+- **#3 med spa post:** its keyword is now "how to choose a med spa," with no "Oakville" in the title or H1, because "med spa oakville" belongs to the homepage. Task #142 was renamed to match.
+- **#22 (double chin)** is merged into #16 (fat-dissolving injections).
+- **#21:** its primary keyword is now "lip filler migration" (720 searches a month) instead of "lip filler dissolve" (480).
+- **#5** now covers cheeks, chin and jawline only, so it doesn't compete with the lip (#18) and under-eye (#13) posts.
+- **Target Keywords:** "how often should you get botox" is folded into #1. The national blog keywords now point to the blog URLs in the briefs.
+
 ## 2026-11-24 (fourth update): Monitoring dates and second SE Ranking audit
 
 **Focus Targets:** every row now has a "Monitor in" column, a "Target date to complete" column (the due date of the last linked task), and a "Target position by 14 Feb" for keywords. A "How we monitor" note was added.
