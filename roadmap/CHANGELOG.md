@@ -1,5 +1,24 @@
 # SEO Roadmap changelog
 
+## 2026-11-24 (sixth update): This week's website fixes completed
+
+**Checked on the live site on Nov 24, then marked Done:**
+- **#156** www / non-www and canonical fix
+- **#158** real internal links: 0 "#" links left, 46 internal links on the homepage
+- **#192** alt text on every image
+- **#193** readable text on the social icon links
+
+**New tasks, logged as Done:**
+- #196 footer "Google reviews" link
+- #197 aggregateRating and review schema
+- #198 alternateName schema
+- #199 visible "5.0 on Google · 14 reviews" rating
+- #200 build and QA: 29 pages build, navigation tests pass
+
+**Other tabs:** Priority Issues now lists internal links, alt text and icon text as RESOLVED, so no P0 issues remain. Start Here, the 90-Day Overview (W15), Focus Targets and Metrics are updated to match.
+
+**Still open this week:** #157 sitemap resubmit, #177 postal code revert, #182 lip filler blog, #194 Burlington meta description.
+
 ## 2026-11-24 (fifth update): Blog briefs and keyword ownership
 
 **New tab: Blog Briefs.** 22 briefs: 15 scheduled through Feb 14, and 7 for next quarter. Each brief has:
