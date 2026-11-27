@@ -1,5 +1,34 @@
 # SEO Roadmap changelog
 
+## 2026-11-27: Keyword cannibalization fix plan
+
+**Source:** SE Ranking cannibalization export from Nov 27 (data Nov 13–25). It shows 25 keywords (ignoring the brand term) split across 2–8 pages.
+- Counting only keywords seen more than once, /locations competes on 16 and /faq on 12. Including one-day sightings, it's 21 and 15.
+- The Botox page doesn't rank at all for "botox oakville", "botox clinic oakville" or "botox injections oakville."
+
+**New tab: Cannibalization Fix.** One row per keyword and competing page. Each row shows:
+- the owner page and its current position
+- the competing page and its position, and how many days it was seen
+- the action for the competing page, task ID, due date and status
+- re-check columns for Dec 15 and Jan 5
+
+**New tasks:**
+- #204 /treatments hub link text
+- #205 off-topic keywords on the fillers and fat dissolving pages
+- #206 /contact and /your-visit meta descriptions
+- #207 IV wording
+- #208 /inclusive-care title and H1
+- #209 H2s on the dermal fillers page
+- #210 and #211: re-export the report on Dec 15 and Jan 5
+
+**Task updates:**
+- #160 (/faq) and #201 (/locations) moved to Dec 13.
+- Notes added to #157, #160, #184, #185, #188, #189, #201 and #202.
+
+**Other tabs:**
+- Page Targets has a new "Competing for" column.
+- Priority Issues: the cannibalisation evidence is updated.
+
 ## 2026-11-24 (seventh update): Page Targets
 
 **New tab: Page Targets.** One row for each of the 25 live URLs and the 4 planned location pages. Each row has:
